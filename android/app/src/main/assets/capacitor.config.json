@@ -1,0 +1,13 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-app-update",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"CodePush": {
+			"IOS_DEPLOY_KEY": "4YX4rj_WrNNVAeID-nBvLVehAmKit3SbKzgwt",
+			"ANDROID_DEPLOY_KEY": "Pv5soFQCGwlVKtj-yz1gkoLoCBOByNUIgIZce",
+			"SERVER_URL": "https://codepush.appcenter.ms/"
+		}
+	}
+}
